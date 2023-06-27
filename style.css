@@ -1,5 +1,5 @@
-.logo1 {
-    float: right;
+#logo1 {
+    position: relative;
     margin-left: 350px;
 
 }
