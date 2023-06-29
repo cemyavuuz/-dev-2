@@ -1,5 +1,55 @@
-#logo1 {
-    position: relative;
-    margin-left: 350px;
+.logo1>img{
+    margin-left: 700px;
+}
+.search{
+    background-color:rgb(231, 231, 231);
+    height: 100px;
+}
+.search>p{
+    padding-left: 41%;
+}
+.search>input{
+    margin-left: 38%;
+}
+.search>span{
+    margin-left: 41%;
+    margin-top: 15px;
+}
+#link{   
+    height: 120px;
+    margin-top: 4px;
+}
+#link>h3{
+    text-align: center;
+}
+.kutu1{
+    background-color:#7EE5DA;
+    width: 37%;
+    height: 100px;
+    padding-top: 1px;
+    margin-right: 2px;
+    float: left;
+    text-align: center;
+}
 
+.kutu2{
+    background-color: #70CCC2;
+    height: 100px;
+    width: 25.7%;
+    float: left;
+    margin-right: 2px;
+    text-align: center;
+    
+}
+.kutu3{
+    background-color:#62B3AA;
+    height: 100px;
+    width: 37%;
+    float: left;
+    text-align: center;
+
+    
+}
+.footer{
+    text-align: center;
 }
